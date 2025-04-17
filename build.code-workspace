@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Workout-project-main/build"
+		},
+		{
+			"path": "../Workout-project-main/node_modules"
+		},
+		{
+			"path": "../Workout-project-main/public"
+		},
+		{
+			"path": "../Workout-project-main/src"
+		}
+	]
+}

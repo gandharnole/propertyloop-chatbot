@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter/Streamlit artifacts
+.ipynb_checkpoints
+.streamlit/config.toml
+
+# Virtual environments
+venv/
+.env/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+.cache/
+
+# VSCode
+.vscode/
